@@ -15,6 +15,7 @@ Vue.js + express + mongoDB + chart.js sample
 ***
 ### more
 
+https://kuc-arc-f.github.io/web-dev/2019/08/18/Vue-js-express-mongoDB-chart-js-measure1/
 
 ***
 
